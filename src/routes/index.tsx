@@ -177,7 +177,6 @@ function Index() {
 
   return (
     <div className="min-h-screen bg-background text-foreground">
-      <Toaster />
       <header className="flex items-center justify-between gap-3 border-b border-border px-4 py-3 md:px-6">
         <div>
           <h1 className="text-lg font-semibold tracking-tight">Notepad</h1>
